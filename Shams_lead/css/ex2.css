@@ -11,3 +11,11 @@ div{
     visibility: hidden;  /*leaves space*/
     /* display: none; remove completly */
 }
+/* #fifth > p{
+    display: none;
+} */
+#sixth > img{
+
+    width: 600px; height: 300px;
+
+}
