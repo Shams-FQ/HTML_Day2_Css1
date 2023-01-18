@@ -1,20 +1,29 @@
 div {
-    margin: 5px;
+    /*Intermediate exercise
+    margin: 5px;*/
 }
 
 h1 {
-    color: blue;
+    /*Intermediate exercise
+    color: blue;*/
 }
 
 #third>span {
-    display: none;
+    /*intermediate exercise
+    display: none;*/
 }
 
 #fifth>p {
-    display: none;
+    /*intermediate exercise
+    display: none;*/
 }
 
 #sixth>img {
+    /*intermediate exercise
     width: 300px;
-    height: 300px;
+    height: 300px;*/
+}
+
+#fifth p {
+    color: yellowgreen;
 }
