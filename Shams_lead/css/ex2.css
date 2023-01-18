@@ -8,7 +8,7 @@ div{
 }
 
 #third > span {
-    visibility: hidden;  /*leaves space*/
+    /* visibility: hidden;  leaves space */
     /* display: none; remove completly */
 }
 /* #fifth > p{
@@ -18,4 +18,7 @@ div{
 
     width: 600px; height: 300px;
 
+}
+#fifth p{
+    color: blueviolet;
 }
