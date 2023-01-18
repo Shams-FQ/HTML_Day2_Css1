@@ -1,0 +1,20 @@
+div {
+    margin: 5px;
+}
+
+h1 {
+    color: blue;
+}
+
+#third>span {
+    display: none;
+}
+
+#fifth>p {
+    display: none;
+}
+
+#sixth>img {
+    width: 300px;
+    height: 300px;
+}
