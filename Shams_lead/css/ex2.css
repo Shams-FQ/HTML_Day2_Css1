@@ -1,0 +1,13 @@
+
+h1 {
+    color: blue;
+}
+
+div{
+    margin: 5px;
+}
+
+#third > span {
+    visibility: hidden;  /*leaves space*/
+    /* display: none; remove completly */
+}
